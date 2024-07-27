@@ -32,6 +32,8 @@ vi contracts/Hello.sol
 # double check dns
 vi src/App.js
 
+# from project directory
+mkdir scripts       
 vi scripts/deploy.js
 
 
